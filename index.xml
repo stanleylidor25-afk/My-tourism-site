@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on TOURISM SITE</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on TOURISM SITE</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Feb 2026 23:01:09 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the three most beautiful places to visit in the world around the world to visit</title>
+      <link>http://localhost:1313/posts/a-post/</link>
+      <pubDate>Sat, 21 Feb 2026 23:01:09 +0100</pubDate>
+      <guid>http://localhost:1313/posts/a-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>experience to do</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 21 Feb 2026 22:52:49 +0100</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rome</title>
+      <link>http://localhost:1313/posts/post-3/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-3/</guid>
+      <description>&lt;p&gt;After a series of recent restoration projects throughout the city, Rome is officially refreshed and ready for its close-up. When you visit Italy&amp;rsquo;s capital city, prepare to cross a few must-see landmarks – including the Colosseum, the Trevi Fountain and the Pantheon – off of your bucket list. Travelers can also see some of Italy&amp;rsquo;s greatest treasures, including St. Peter&amp;rsquo;s Basilica, the Sistine Chapel and a new pope in Vatican City. Once you get your bearings, peruse some of Rome&amp;rsquo;s lesser-known museums, art galleries and boutiques, or head to Janiculum Hill for panoramic views of the city.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Barcelona</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;p&gt;This Spanish city is a feast for the eyes: Visitors can walk past medieval architecture in the Barri Gòtic, snap photos of the intricate Basílica de la Sagrada Família (set to be completed in 2026) and gape at more of Antoni Gaudí&amp;rsquo;s whimsical creations in Park Güell. Meanwhile, Barceloneta Beach and the Parc de la Ciutadella are perfect places to pass the time on a sunny day before checking out the restaurants and bars in the Gracia district, which buzzes at all hours of the night. Though the weather may be chilly, plan an off-peak winter visit to avoid the city&amp;rsquo;s ever-growing crowds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>sidney </title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;Sydney offers more than just a dizzying array of famous landmarks, such as the Sydney Opera House, Mrs. Macquarie&amp;rsquo;s Chair and the Sydney Harbour Bridge. This Australian metropolis boasts a warm, sunny climate that is ideal for relaxing or surfing at world-renowned beaches like Bondi and Manly. Be sure to peruse the art and architecture at the Art Gallery of New South Wales museum campus, or get an overview of the city&amp;rsquo;s history and culture at the Hyde Park Barracks and the Australian Museum&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
